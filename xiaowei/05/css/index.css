@@ -1,0 +1,129 @@
+*{margin: 0;padding: 0;font-family: "微软雅黑";}
+h3{font-size: 15px; color: #B3B3B3}
+nav a:visited{color:#F0F0F0}
+nav a:hover{color:#38B3FD;}
+
+
+
+header{ background-color:#464646; }
+body{background-color: #2E2E2E;}
+#main{width: 88%;
+	background-color: #E8E8E8;
+	margin-left: 6%;
+	position: relative;
+	min-width: 614px;
+
+}
+#con{
+	margin-right: 360px;
+}
+aside{
+	position:absolute;
+	right: 0px;
+	top: 0px;
+	width: 240px;
+}
+#logo{font-size: 40px;
+	
+	color:#fff;
+	  display: inline-block;
+	  margin: 10px;
+	  margin-left: 30px;
+}
+nav{line-height: 50px;}
+nav ul li a{
+	display:inline-block;
+	width: 120%;
+	height: 35px;
+	font-size: 15px;
+	background:linear-gradient(#5FB6EF,#306896);
+	text-decoration:none;
+	font: #fff;
+	text-align: center;
+	line-height: 35px;
+	border-radius: 5px;
+
+	
+}
+nav ul li{
+	float: left;
+	margin: 10px 15px;
+	list-style-type: none;
+
+}
+nav ul {
+	margin-right: 10px;
+}
+article{
+	background-color: #fff;
+	margin: 24px;
+	padding: 3%;
+	box-shadow: 3px 3px 2px #BBBBBB;
+}
+aside{
+	background-color: #fff;
+	margin: 94px 35px;
+	padding: 3%;
+	box-shadow: 3px 3px 2px #BBBBBB;
+}
+#PhotoGroup{text-align: center;}
+.photo{
+	display: inline-block;
+	background-color: #DCDCDC;
+	margin: 10px;
+	box-shadow: 3px 3px 2px #BBBBBB;
+	width: 25%
+
+}
+.photo img{width: 70%;
+	padding: 2%;
+}
+.photo h4{
+	font-size: 90%
+}
+#PhotoGroup h4{margin-top: 10px;}
+table{width: 94%;
+	border-collapse: collapse;
+	margin: 3%;
+	font-size: 14px;
+}
+.Theader{
+	background-color:#414141;
+	color: #fff;
+
+}
+table td{
+	border: 1px solid #CBCBCB;
+	padding: 2px 6px;
+}
+.Tfooter{background-color: #B9B9B9;
+	font-weight: bold;
+}
+ol{padding-left: 5%;}
+form{font-size: 13px;}
+form #submit{width: 94%;
+	height: 40px;
+	background-color: #3131E0;
+	border-radius: 10px;
+	font-size: 15px;
+	font-weight: bolder;
+	color: #fff;
+	margin-left: 3%;
+	display: block;
+	margin-top: 10px;
+}
+form input{margin: 5px 5px;
+	padding: 2px 3px;
+
+}
+form p{margin-top: 5px;}
+footer{background-color:#181818;
+	text-align: center;
+	height: 60px;
+	color: #fff;
+	padding: 10px;
+}
+#Himg{width: 80%}
+#con p{font-size: 0.8em;}
+.clear{clear: both;}
+.floR{float: right;}
